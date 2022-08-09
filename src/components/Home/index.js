@@ -3,7 +3,8 @@ import React, { useState, useEffect } from 'react'
 import LogoTitle from '../../assets/images/logo-s.png'
 import {Link} from 'react-router-dom'
 import AnimatedLetters from "../AnimatedLetters"
-import Logo from "./Logo"
+// import Logo from "./Logo"
+
 import Loader from "react-loaders"
 
 const Home = () =>{
@@ -43,7 +44,7 @@ const Home = () =>{
             <h2>Frontend Developer / </h2>
             <Link to="/contact" className='flat-button'>CONTACT ME</Link>
         </div>
-      <Logo />
+      {/* <Logo /> */}
       
     </div>
     <Loader type="pacman" />
