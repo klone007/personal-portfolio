@@ -1,0 +1,13 @@
+Packages to install:
+1) --> npm i @emailjs/browser   			for contact form
+2) --> npm i @fortawesome/free-brands-svg-icons
+3) --> npm i @fortawesome/free-solid-svg-icons  		for navigation on left side
+4) --> npm i @fortawesome/react-fontawesome
+5) --> npm i animate.css				css library for animating fonts and icons
+6) --> npm i gsap-trial					more advance animations 
+7) --> npm i loaders.css				loading in betwenn pages animation
+8) --> npm i react-leaflet				map in conatacts page
+9) --> npm i react-loaders				loaders integrations in react
+10) --> npm i react-router-dom	
+11) --> npm i sass					for styling
+12)--> npm i @fortawesome/fontawesome-svg-core
