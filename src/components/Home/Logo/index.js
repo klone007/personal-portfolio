@@ -39,7 +39,7 @@ const Logo = () => {
     return (
       <>
         <div className='logo-container' ref={bgRef}>
-            <img className='solid-logo' ref={solidLogoRef} src={LogoS} />
+            <img className='solid-logo' ref={solidLogoRef} alt="logo backgound" src={LogoS} />
 
             
             <svg
