@@ -24,7 +24,7 @@ const renderProjects = (projects) => {
                     return (
                             
                                 <div className="image-box" key={idx}>     
-                                    <a href={proj.url} target="_blank" >  
+                                    <a href={proj.url} target="_blank" rel="noreferrer">  
                                         <img src={proj.cover} 
                                         className="project-image"
                                         alt="projects images"/>
