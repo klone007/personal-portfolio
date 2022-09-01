@@ -24,30 +24,36 @@ const About = () => {
   return (
     <>
       <div className="container about-page">
-        <div className="text-zone">
-          <h1>
-            <AnimatedLetters
-              letterClass={letterClass}
-              strArray={"About me".split("")}
-              idx={15}
-            />
-          </h1>
-          <p>
-          I'm a very ambitious front-end developer searching for a 
-          position at a reputable IT firm where I can use the 
-          newest technology on difficult and varied projects.
-          </p>
-          <p align="LEFT">
-          I have a low-key sense of confidence, am innately interested,
-          and am always aiming to hone my skills one design challenge 
-          at a time.
-          </p>
-          <p>
-            If I need to define myself in one sentence that would be a , and tech-obsessed!!!
-          </p>
+        <div className="text-zone about">
+          <div className="heading-about">
+            <h1>
+              <AnimatedLetters
+                letterClass={letterClass}
+                strArray={"About me".split("")}
+                idx={15}
+              />
+            </h1>
+          </div>
+
+          <div className="content">
+            <p>
+            I'm a very ambitious front-end developer searching for a 
+            position at a reputable IT firm where I can use the 
+            newest technology on difficult and varied projects.
+            </p>
+            <p align="LEFT">
+            I have a low-key sense of confidence, am innately interested,
+            and am always aiming to hone my skills one design challenge 
+            at a time.
+            </p>
+            <p>
+              If I need to define myself in one sentence that would be a , and tech-obsessed!!!
+            </p>
+          </div>
+          
         </div>
 
-        <div className="stage-cube-cont">
+        <div className="stage-cube-cont mob">
           <div className="cubespinner">
             <div className="face1">
               <FontAwesomeIcon icon={faSass} color="#DD0031" />

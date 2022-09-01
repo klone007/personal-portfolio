@@ -112,3 +112,36 @@
         }
     }
 }
+
+
+@media screen and (max-width:900px) {
+   .project-page {
+        width:100%;
+        padding:20px;
+        box-sizing: border-box;
+        overflow-y: auto;
+
+        h1.page-title{
+            margin-top: 20px;
+            margin-left:20px;
+        }
+
+        .image-box{
+            height:200px;
+            min-width:calc(50% - 10px);
+
+            .content{
+                position:absolute;
+                top:50%;
+                left:0%;
+                height:100px;
+            }
+        }
+    }
+    
+
+
+
+  }
+  
+ 

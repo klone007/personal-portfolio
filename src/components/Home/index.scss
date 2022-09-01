@@ -1,7 +1,7 @@
 @import '../../assets/variables/color.scss';
 
 .home-page{
-    .text-zone {
+    .text-zone2 {
         position: absolute;
         left: 10%;
         top: 50%;
@@ -82,3 +82,40 @@
 
         }
 }
+
+.solid-logo {
+    position: relative;
+    left: 55%;
+    max-width:100%;
+    max-height: 100%;
+   transform:rotate(25deg);
+}
+
+@media only screen and (max-width: 900px) {
+    /* For mobile phones: */
+    .solid-logo {
+        position: relative;
+        left: 0%;
+        z-index:-10000;
+    }
+
+    [class*="text-animate-"]{
+        font-size:6vw;
+        position:relative;
+    }
+    .container {
+        position:absolute;
+        left:20%;
+    }
+    .text-zone2{
+        --bg-color: rgba(0,0,0,0.5);
+        background-color: var(--bg-color);
+        
+    }
+    .mobile-version{
+        box-shadow: 0 0 0 100vmax rgba(0,0,0,0.5);
+        clip-path: inset(0 -100vmax);
+        
+    }
+
+  }

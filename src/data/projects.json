@@ -1,37 +1,37 @@
 {
      "projects": [
          {
-             "cover":"/project/1/one.png",
+             "cover":"./project/1/one.png",
              "title" : "First",
              "description": "React, Tailwind, SASS",
              "url" : "https://google.com"
          },
          {
-            "cover":"/project/1/one.png",
+            "cover":"./project/1/one.png",
             "title" : "First",
             "description": "React, Tailwind, SASS",
             "url" : "https://google.com"
         },
         {
-            "cover":"/project/1/one.png",
+            "cover":"./project/1/one.png",
             "title" : "First",
             "description": "React, Tailwind, SASS",
             "url" : "https://google.com"
         },
         {
-            "cover":"/project/1/one.png",
+            "cover":"./project/1/one.png",
             "title" : "First",
             "description": "React, Tailwind, SASS",
             "url" : "https://google.com"
         },
         {
-            "cover":"/project/1/one.png",
+            "cover":"./project/1/one.png",
             "title" : "First",
             "description": "React, Tailwind, SASS",
             "url" : "https://google.com"
         },
         {
-            "cover":"/project/1/one.png",
+            "cover":"./project/1/one.png",
             "title" : "First",
             "description": "React, Tailwind, SASS",
             "url" : "https://google.com"
