@@ -1,40 +1,11 @@
 {
      "projects": [
          {
-             "cover":"./project/1/one.png",
-             "title" : "First",
-             "description": "React, Tailwind, SASS",
-             "url" : "https://google.com"
-         },
-         {
-            "cover":"./project/1/one.png",
-            "title" : "First",
-            "description": "React, Tailwind, SASS",
-            "url" : "https://google.com"
-        },
-        {
-            "cover":"./project/1/one.png",
-            "title" : "First",
-            "description": "React, Tailwind, SASS",
-            "url" : "https://google.com"
-        },
-        {
-            "cover":"./project/1/one.png",
-            "title" : "First",
-            "description": "React, Tailwind, SASS",
-            "url" : "https://google.com"
-        },
-        {
-            "cover":"./project/1/one.png",
-            "title" : "First",
-            "description": "React, Tailwind, SASS",
-            "url" : "https://google.com"
-        },
-        {
-            "cover":"./project/1/one.png",
-            "title" : "First",
-            "description": "React, Tailwind, SASS",
-            "url" : "https://google.com"
-        }
+             "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjUBHwUTKfurtc-7_TRHW0NLBmS8N9_Gr5A&usqp=CAU",
+             "title" : "Youtube Clone",
+             "description": "React, Material UI, Rapid API",
+             "url" : "https://klone007.github.io/youtube-clone/"
+         }
+
      ]
 }

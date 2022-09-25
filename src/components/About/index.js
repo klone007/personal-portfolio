@@ -38,16 +38,17 @@ const About = () => {
           <div className="content">
             <p>
             I'm a very ambitious front-end developer searching for a 
-            position at a reputable IT firm where I can use the 
-            newest technology on difficult and varied projects.
+            position at a reputable IT firm where I can use my 
+            skill set on difficult and varied projects.
             </p>
             <p align="LEFT">
             I have a low-key sense of confidence, am innately interested,
-            and am always aiming to hone my skills one design challenge 
+            and am always aiming to hone my skills one design  
             at a time.
             </p>
             <p>
-              If I need to define myself in one sentence that would be a , and tech-obsessed!!!
+              If I need to define myself in one sentence that would be a tech-obsessed
+               who is not afraid of a difficult challenge!!!
             </p>
           </div>
           
